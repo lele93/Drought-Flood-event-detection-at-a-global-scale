@@ -1,5 +1,4 @@
-# Compound-and-Consecutive-Drought-Flood-event-detection at global scale 
-Hydro-Meteorological Event Detection
+# Compound and Consecutive Drought-Flood event detection at global scale 
 
 Welcome to our repository! The scripts provided here are designed to detect drought and flood events, as well as their consecutive and compound occurrences, through the analysis of various hydro-meteorological and biophysical variables. These scripts are applied to a dataset comprising 8255 catchments.
 Data Sources:
