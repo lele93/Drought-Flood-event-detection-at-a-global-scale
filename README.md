@@ -7,9 +7,7 @@ The codes utilize time-series data from various sources:
 
     Precipitation (P): Data sourced from MSWEP (Beck et al., 2019).
     Streamflow (STR) : Data sourced from GSIM (Do et al. 2018; Gudmundsson et al. 2018). 
-    Soil Moisture (SM): Soil moisture readings near the surface (0 – 5 cm depth) 
-                        and in the root zone (0 – 250 cm depth) are obtained 
-                        from GLEAM (Martens et al., 2017).
+    Soil Moisture (SM): Soil moisture readings near the surface (0 – 5 cm depth) and in the root zone (0 – 250 cm depth) are obtained from GLEAM (Martens et al., 2017).
     Total Water Storage (TWS): Data sourced from GRACE (Boergens et al., 2019).
     Normalized Difference Vegetation Index (NDVI): Data sourced from NOAA (Vermote et al., 2014).
     Surface Water Extent: Time-series data retrieved from Donchyts et al. (2016).
